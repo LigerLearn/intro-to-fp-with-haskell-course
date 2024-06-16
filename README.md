@@ -8,3 +8,4 @@ the following videos (so far):
 1. [Installing Haskell on Windows](https://youtu.be/7z21m7P6tpI)
 2. [Lambda (λ) Calculus Primer](https://youtu.be/9MtE5ONrQyk)
 3. [Starting with Haskell - An Introduction for Beginners](https://youtu.be/fGYf84aOSk4)
+4. [Algebraic Data Types with Haskell](https://youtu.be/rkr0dUk0qUc)
